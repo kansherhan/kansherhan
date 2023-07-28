@@ -1,4 +1,4 @@
-# Привет, Я Шерхан!
+# Привет, Я Web Developer and Software Engineer разработчик!
 
 ## Web Developer and Software Engineer
 
