@@ -1,4 +1,4 @@
-# Привет, Я Web Developer and Software Engineer разработчик!
+# Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Я Web Developer and Software Engineer разработчик!
 
 Опытный программист с обширными навыками в разработке Frontend и Backend. Эксперт в использовании Vue и React для создания эффективных интерфейсов. В бэкенде работает с Python (особенно с библиотекой Sanic) и Node.js (Nest.js, Express.js). Уверенно управляет базами данных (PostgreSql, MySql, Sqlite) и серверами Linux (Ubuntu, Fedora), использует Docker для создания гибкой инфраструктуры. Стремится к постоянному совершенствованию и готов к новым вызовам.
 
