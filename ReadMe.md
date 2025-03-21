@@ -23,6 +23,37 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
+        width="36" height="36" alt="Go" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
+        width="36" height="36" alt="NestJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
+        width="36" height="36" alt="Fast API" /></a>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
+        width="36" height="36" alt="Wordpress" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+        width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+        width="36" height="36" alt="Linux" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
+        width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
+        width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
+        width="36" height="36" alt="Django" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
+        width="36" height="36" alt=".NET" /></a>
 </p>
 
 1. Frontend Development:
