@@ -5,6 +5,7 @@
 #### 💻 Технологии, которыми владею:
 
 <p align="left">
+
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -81,10 +82,6 @@
 
     - Страсть к изучению новых технологий и постоянное стремление к профессиональному росту.
     - Готовность к новым вызовам и возможностям, делая вас ценным участником разработческих команд.
-
-#### 💻 Codewars и статистика:
-
-![codewars](https://www.codewars.com/users/kansherhan/badges/large)
 
 #### ⚙️ GitHub статистика активности:
 
